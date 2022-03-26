@@ -1,0 +1,5 @@
+Variables: Es un lugar en la memoria que almacena un valor que vas a usar más adelante.
+Strings: Es un tipo de variable formado por caracteres no numéricos.
+Funciones: Es un bloque de código que puedes llamar cuando necesites hacer determinadas operaciones. Pueden recibir argumentos que serían las variables con las que se van a realizar las operaciones y pueden devolver algún otro valor a través del return.
+Declaraciones if: Es una sentencia que se usa para tomar decisiones en base al valor de una condición.
+Valores booleanos: son valores que indican si una condición es verdadera (true) o falsa (false). 
