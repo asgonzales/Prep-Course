@@ -1,0 +1,4 @@
+for: Es una sentencia que ejecuta una o más instrucciones en bucle, tantas veces como sea establecida.
+&&: Es un operador que evalúa dos expresiones y devuelve verdad si ambas expresiones son verdaderas.
+||: Es un operador que evalúa dos expresiones y devuelve verdad si, al menos, una de las expresiones es verdad.
+!: Es un operador que niega el valor de alguna expresión.
