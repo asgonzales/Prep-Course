@@ -1,0 +1,1 @@
+Arrays: Es una variable en forma de lista, se pueden agregar datos, modificar o eliminar cada uno de los items.
