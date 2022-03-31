@@ -1,0 +1,5 @@
+Objetos: Son contenedores de información sobre un cosa. Tienen propiedades y valores que definen esas propiedades.
+Propiedades: Las propiedades de los objetos serían como los datos que pueden guardarse sobre ese objeto.
+Métodos: Los métodos son las funciones propias de cada objeto.
+Bucle for...in: Un bucle que se usa para recorrer cada propiedad de un objeto.
+Notación de puntos vs notación de corchetes:  Son dos formas de acceder a las propiedades de los objetos. La notación de puntos sigue la forma de nombre del objeto, seguido de un punto, seguido del nombre de la propiedad. La notación de corchetes sigue la forma de nombre del objeto, seguido de corchetes que encierran el nombre, variable o número de la propiedad a acceder.
