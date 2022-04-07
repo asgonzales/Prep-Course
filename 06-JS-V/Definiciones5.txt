@@ -1,0 +1,2 @@
+Prototype: Es la propiedad de las clases para crear funciones. De esta manera no se crea una función en cada objeto de la clase sino que cada objeto la función dentro del prototype. 
+Constructors (de Clases): Los constructores son métodos para crear un objeto a partir de una clase.
